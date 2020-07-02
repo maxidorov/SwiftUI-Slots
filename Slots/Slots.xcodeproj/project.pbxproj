@@ -13,6 +13,7 @@
 		3414503024AE53F70030EB71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3414502F24AE53F70030EB71 /* Assets.xcassets */; };
 		3414503324AE53F70030EB71 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3414503224AE53F70030EB71 /* Preview Assets.xcassets */; };
 		3414503624AE53F70030EB71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3414503424AE53F70030EB71 /* LaunchScreen.storyboard */; };
+		3414504024AE67710030EB71 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3414503F24AE67710030EB71 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3414503224AE53F70030EB71 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3414503524AE53F70030EB71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3414503724AE53F70030EB71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3414503F24AE67710030EB71 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				3414502924AE53F50030EB71 /* AppDelegate.swift */,
 				3414502B24AE53F50030EB71 /* SceneDelegate.swift */,
+				3414503F24AE67710030EB71 /* CardView.swift */,
 				3414502D24AE53F50030EB71 /* ContentView.swift */,
 				3414502F24AE53F70030EB71 /* Assets.xcassets */,
 				3414503424AE53F70030EB71 /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 			files = (
 				3414502A24AE53F50030EB71 /* AppDelegate.swift in Sources */,
 				3414502C24AE53F50030EB71 /* SceneDelegate.swift in Sources */,
+				3414504024AE67710030EB71 /* CardView.swift in Sources */,
 				3414502E24AE53F50030EB71 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,2 +1,2 @@
-# SwiftUI-Slots
+# SwiftUI Slots
 Small app with SwiftUI
